@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reptiliamuseizoo00uniw_0029.png"; bbox 0 0 2632 3890; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 965 766 1561 836">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 965 766 1561 836">
+     <span class='ocr_line' id='line_1_1' title="bbox 965 766 1561 836; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 965 766 1355 836; x_wconf 81' lang='lat' dir='ltr'><em>ORDO</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1499 767 1561 833; x_wconf 92' lang='grc' dir='ltr'><strong>Ι.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 156 1155 2354 1243">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 156 1155 2354 1243">
+     <span class='ocr_line' id='line_1_2' title="bbox 156 1155 2354 1243; baseline -0.002 -9"><span class='ocrx_word' id='word_1_3' title='bbox 156 1156 209 1234; x_wconf 83' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_4' title='bbox 288 1156 363 1233; x_wconf 86' lang='grc' dir='ltr'>Η</span> <span class='ocrx_word' id='word_1_5' title='bbox 441 1155 508 1233; x_wconf 87' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_6' title='bbox 586 1157 654 1233; x_wconf 88' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_7' title='bbox 736 1156 796 1233; x_wconf 87' lang='lat'>0</span> <span class='ocrx_word' id='word_1_8' title='bbox 875 1157 947 1233; x_wconf 87' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_9' title='bbox 1025 1156 1063 1232; x_wconf 90' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 1138 1157 1176 1232; x_wconf 93' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_11' title='bbox 1320 1177 1744 1243; x_wconf 68' lang='lat' dir='ltr'>BRONGN„</span> <span class='ocrx_word' id='word_1_12' title='bbox 1816 1177 2162 1233; x_wconf 80' lang='lat' dir='ltr'>CUVIER</span> <span class='ocrx_word' id='word_1_13' title='bbox 2240 1194 2354 1231; x_wconf 71' lang='lat' dir='ltr'><strong>mc</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 326 1474 2203 1551">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 326 1474 2203 1551">
+     <span class='ocr_line' id='line_1_3' title="bbox 326 1474 2203 1551; baseline -0.002 -10"><span class='ocrx_word' id='word_1_14' title='bbox 326 1474 1081 1545; x_wconf 85' lang='lat' dir='ltr'><strong>TESTUDINATA</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1212 1488 1525 1551; x_wconf 78' lang='lat' dir='ltr'><strong>KLE1N‚</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1594 1485 2011 1540; x_wconf 81' lang='lat' dir='ltr'><strong>MERREM</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2072 1502 2203 1538; x_wconf 82' lang='lat' dir='ltr'>ETc.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
